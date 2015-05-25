@@ -10,6 +10,7 @@ There are n programs, m similar processors and one server. Each program download
 **Example of input.txt**
 
 The first line is amount of processors. In the second line - amount of programs. Each of the next lines is download and execute times of program.
+
 3
 
 6
